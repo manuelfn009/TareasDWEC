@@ -1,0 +1,24 @@
+h3{
+    text-align: center;
+    color: rgb(255, 255, 255)    ;
+    padding: 15px;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow', sans-serif;
+    box-shadow: 0px 9px 30px #4e37c296;
+    border-radius: 10px;
+}
+.cuenta-atras {
+    text-align: center;
+    width: 700px;
+    color: white;
+    padding: 15px;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif  ;
+    background-color: transparent;
+  }
+
+body{
+    background-image: url(background.png) ;
+    display: grid;
+    place-items: center;
+}

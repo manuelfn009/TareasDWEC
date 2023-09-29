@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../4. Funciones"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Ejemplos - DOM"
+		},
+		{
+			"path": "../Ejercicio Tabla"
+		},
+		{
+			"path": "../Primera app"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "CodificandoMensajes"
+	}
+}
